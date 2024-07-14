@@ -70,6 +70,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  MoodKid,
+  WallpaperFilled,
 };
 
 // 链接跳转
