@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Disallow: /font
+Disallow: /image
+Disallow: /assets
