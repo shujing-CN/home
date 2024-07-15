@@ -12,7 +12,7 @@
     "copy-robots": "cp robots.txt dist/",
     "preview": "vite preview",
     "format": "prettier --write src/",
-    "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.vue --fix"
+    "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts,.txt,.vue --fix"
   },
   "dependencies": {
     "@worstone/vue-aplayer": "^1.0.6",
