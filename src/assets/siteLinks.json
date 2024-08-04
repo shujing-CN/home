@@ -1,13 +1,13 @@
 [
   {
+  "icon": "Blog",
+  "name": "博客",
+  "link": "https://blog.qzq.asia/"
+  },
+  {
     "icon": "PhotoVideo",
     "name": "壁纸站",
     "link": "https://paper.qiaoziquan.cn/"
-  },
-  {
-    "icon": "Child",
-    "name": "kid🚫",
-    "link": "https://video.qzq.asia/video.mp4"
   },
   {
     "icon": "LaptopCode",
