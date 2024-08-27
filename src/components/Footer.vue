@@ -27,6 +27,10 @@
             {{ siteIcp }}
           </a>
         </span>
+        <div>    
+    <!-- 添加“联系我”链接 -->  
+    <a href="https://me.qzq.asia" target="_blank">联系我</a>  
+        </div> 
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
